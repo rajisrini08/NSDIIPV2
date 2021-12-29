@@ -1,0 +1,107 @@
+2021-12-17 08:25:24,658 DB Connection success
+2021-12-17 08:25:24,945 DB Connection success
+2021-12-17 08:26:08,457 Response to 103.135.189.201 has Received /File-upload request.
+2021-12-17 08:26:08,470 Found credentials in shared credentials file: ~/.aws/credentials
+2021-12-17 08:26:08,697 Response to 103.135.189.201For File name: <starlette.datastructures.UploadFile object at 0x7fe38d06c820>
+2021-12-17 08:26:11,247 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 08:26:11,491 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 08:26:11,674 DB Connection success
+2021-12-17 08:26:11,728 File Location Update Success in Documents Table 
+2021-12-17 08:26:11,740 DB Connection success
+2021-12-17 08:26:11,744 Tiff File Location Update Success in Documents Table 
+2021-12-17 08:26:12,644 DB Connection success
+2021-12-17 08:26:42,114 Response to 103.135.189.201 has Received /File-upload request.
+2021-12-17 08:26:42,127 Found credentials in shared credentials file: ~/.aws/credentials
+2021-12-17 08:26:42,295 Response to 103.135.189.201For File name: <starlette.datastructures.UploadFile object at 0x7fe38d06d8e0>
+2021-12-17 08:26:44,851 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 08:26:45,059 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 08:26:45,219 DB Connection success
+2021-12-17 08:26:45,256 File Location Update Success in Documents Table 
+2021-12-17 08:26:45,266 DB Connection success
+2021-12-17 08:26:45,433 Tiff File Location Update Success in Documents Table 
+2021-12-17 08:26:46,603 DB Connection success
+2021-12-17 08:28:24,617 Response to 103.135.189.201 has Received /File-upload request.
+2021-12-17 08:28:24,630 Found credentials in shared credentials file: ~/.aws/credentials
+2021-12-17 08:28:26,043 DB Connection success
+2021-12-17 08:30:48,080 Received GET request from 103.135.189.201
+2021-12-17 08:30:48,093 Found credentials in shared credentials file: ~/.aws/credentials
+2021-12-17 08:30:48,705 
+2021-12-17 08:32:14,925 Result of the quality check request from 103.135.189.201: {'File_Name': 'BurdBrothersInvoice.pdf', 'Quality': 'Average', 'Page_Count': 28, 'Quality_Confidence_Score': 89.65}
+2021-12-17 08:32:15,051  has DB Connection success
+2021-12-17 08:32:15,084 Insert Batch detail in Doc_Batch Success
+2021-12-17 08:32:15,277 Insert Batch detail in Doc_Batch Success
+2021-12-17 08:32:15,297 Insert Batch detail in Doc_Batch Success
+2021-12-17 08:32:15,335 Insert Batch detail in Doc_Batch Success
+2021-12-17 08:32:15,349 Insert Batch detail in Doc_Batch Success
+2021-12-17 08:32:15,532 DB Connection success
+2021-12-17 08:32:15,546 File Location Update Success in Documents Batch Process Table 
+2021-12-17 08:32:15,562 DB Connection success
+2021-12-17 08:32:15,568 File Location Update Success in Documents Batch Process Table 
+2021-12-17 08:32:15,579 DB Connection success
+2021-12-17 08:32:15,583 File Location Update Success in Documents Batch Process Table 
+2021-12-17 08:32:15,598 DB Connection success
+2021-12-17 08:32:15,602 File Location Update Success in Documents Batch Process Table 
+2021-12-17 08:32:15,818 Insert Batch detail in Doc_Batch Success
+2021-12-17 08:32:15,818 Junk Pages to Remove[]
+2021-12-17 08:32:15,818 pages_to_delete_setset()
+2021-12-17 08:32:16,105 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 08:32:16,286 DB Connection success
+2021-12-17 08:32:16,325 File Location Update Success in Documents Table 
+2021-12-17 08:32:16,859 Result for the classify request from 103.135.189.201: {'status': 200, 'Document_Id': '99992', 'UpdatedFileLocation': 'https://qbocr.s3.amazonaws.com/TPItests/99992/Edited/BurdBrothersInvoice_edited.pdf', 'File_Names_List': [{'File_Name': 'BurdBrothersInvoice.pdf', 'Quality': 'Average', 'Page_Count': 28, 'Quality_Confidence_Score': 89.65, 'Document_Type': 'INV', 'Classification_Confidence_Score': 26.390700000000002, 'Classification_Confidence_Percent': 100.0}]}
+2021-12-17 08:32:16,859 Returned result successfully to 103.135.189.201
+2021-12-17 08:32:17,839 DB Connection success
+2021-12-17 08:53:22,091 Response to 103.135.189.201 has Received /File-upload request.
+2021-12-17 08:53:22,104 Found credentials in shared credentials file: ~/.aws/credentials
+2021-12-17 08:53:22,353 Response to 103.135.189.201For File name: <starlette.datastructures.UploadFile object at 0x7fe38d06d820>
+2021-12-17 08:53:33,397 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 08:53:33,900 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 08:53:33,965 DB Connection success
+2021-12-17 08:53:34,167 File Location Update Success in Documents Table 
+2021-12-17 08:53:34,184 DB Connection success
+2021-12-17 08:53:34,189 Tiff File Location Update Success in Documents Table 
+2021-12-17 08:53:35,302 DB Connection success
+2021-12-17 08:53:49,168 Received GET request from 103.135.189.201
+2021-12-17 08:53:49,169 
+2021-12-17 09:00:30,513 Result of the quality check request from 103.135.189.201: {'File_Name': 'FX016959.pdf', 'Quality': 'Average', 'Page_Count': 100, 'Quality_Confidence_Score': 83.23}
+2021-12-17 09:00:30,714  has DB Connection success
+2021-12-17 09:00:30,766 Insert Batch detail in Doc_Batch Success
+2021-12-17 09:00:30,797 Insert Batch detail in Doc_Batch Success
+2021-12-17 09:00:30,822 Insert Batch detail in Doc_Batch Success
+2021-12-17 09:00:30,878 Insert Batch detail in Doc_Batch Success
+2021-12-17 09:00:30,897 Insert Batch detail in Doc_Batch Success
+2021-12-17 09:00:30,912 DB Connection success
+2021-12-17 09:00:30,927 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,122 DB Connection success
+2021-12-17 09:00:31,138 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,154 DB Connection success
+2021-12-17 09:00:31,161 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,174 DB Connection success
+2021-12-17 09:00:31,178 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,194 DB Connection success
+2021-12-17 09:00:31,200 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,394 DB Connection success
+2021-12-17 09:00:31,399 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,420 DB Connection success
+2021-12-17 09:00:31,425 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,442 DB Connection success
+2021-12-17 09:00:31,446 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,466 DB Connection success
+2021-12-17 09:00:31,470 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,649 DB Connection success
+2021-12-17 09:00:31,659 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,680 DB Connection success
+2021-12-17 09:00:31,685 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,698 DB Connection success
+2021-12-17 09:00:31,701 File Location Update Success in Documents Batch Process Table 
+2021-12-17 09:00:31,921 Insert Batch detail in Doc_Batch Success
+2021-12-17 09:00:31,921 Junk Pages to Remove[4, 9, 17, 18, 23, 24, 29, 37, 38, 46, 53, 59, 66, 67, 73, 74, 93, 94, 97, 98]
+2021-12-17 09:00:31,921 pages_to_delete_set{4, 9, 17, 18, 23, 24, 29, 37, 38, 46, 53, 59, 66, 67, 73, 74, 93, 94, 97, 98}
+2021-12-17 09:00:32,162 Found credentials in shared credentials file: ~/.aws/credentials
+2021-12-17 09:00:32,467 File successfully uploaded to S3 bucket: qbocr
+2021-12-17 09:00:32,481 DB Connection success
+2021-12-17 09:00:32,516 File Location Update Success in Documents Table 
+2021-12-17 09:00:33,026 Result for the classify request from 103.135.189.201: {'status': 200, 'Document_Id': '99996', 'UpdatedFileLocation': 'https://qbocr.s3.amazonaws.com/TPItests/99996/Edited/FX016959_edited.pdf', 'File_Names_List': [{'File_Name': 'FX016959.pdf', 'Quality': 'Average', 'Page_Count': 100, 'Quality_Confidence_Score': 83.23, 'Document_Type': 'INV', 'Classification_Confidence_Score': 38.516, 'Classification_Confidence_Percent': 75.65}]}
+2021-12-17 09:00:33,026 Returned result successfully to 103.135.189.201
+2021-12-17 09:00:33,921 DB Connection success
+2021-12-17 22:02:32,766 DB Connection success
+2021-12-19 18:07:46,145 DB Connection success
